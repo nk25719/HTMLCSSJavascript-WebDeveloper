@@ -8,11 +8,33 @@
 
 ## Ref and Info 
 
-- In this course there are usefull websites that I learned about and I bookmarked 
+- During this course I learned about usefull websites and I bookmarked, examples: 
+    - https://validator.w3.org/
+    - https://caniuse.com/
+    - https://codepen.io/pen/
+    - https://stackoverflow.com/
+    - https://css-tricks.com/
+    - https://jsfiddle.net/
 
-- In this course there are usefull info that I am planning to add here. 
+- During this course I learned tips that I am planning to add here:
+  - The target attribute, when it's set to the value _blank, forces the browser to open this page in a new tab or a new window.
+  - The <a> tag in the HTML5 is both an inline element and a block level element at the same time.
+  - Fragment identifiers are very useful in order to jump to different parts of the same page, recently they have become even more important as they're used for navigation within the SPA or Single Page Applications.
+
+
+
+### Random Useful info 
+
+- External links, href value usually starts with http:// because it's usually the case that external links are hosted on a different domain name than your website.
+ 
 
 ### Course 
 
 - Name: HTML, CSS, and Javascript for Web Developers Johns Hopkins University
 - Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/1
+
+### Recommended Books
+
+- https://clearlydecoded.com/recommended-books/
+
+
